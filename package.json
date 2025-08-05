@@ -1,0 +1,23 @@
+{
+  "name": "shopnicekicks-automation",
+  "version": "1.0.0",
+  "description": "Puppeteer automation script for ShopNiceKicks purchase process",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --inspect index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.5.2",
+    "@faker-js/faker": "^8.3.1",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": [
+    "puppeteer",
+    "automation",
+    "ecommerce",
+    "shopnicekicks"
+  ],
+  "author": "",
+  "license": "MIT"
+} 
